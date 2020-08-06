@@ -1,7 +1,7 @@
 ### Click Video for link with Sound!
 
 
-![Profile Trailer Video](./Profile_Gif.gif)(https://youtu.be/d4Ub-0War3E)
+![Profile Trailer Video](https://github.com/jeashwor/jeashwor/Profile_Gif.gif)(https://youtu.be/d4Ub-0War3E)
 
 
 jeashwor@gmail.com
