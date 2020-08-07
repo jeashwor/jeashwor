@@ -10,7 +10,7 @@ https://jeashwor.github.io/
 
 ### Resume
 
-[Click Here for Resume](./Jacob_Ashworth_Resume.pdf)
+[Click Here for Resume](https://raw.githubusercontent.com/jeashwor/jeashwor/master/Jacob_Ashworth_Resume.pdf)
 
 ### Contact Me
 jeashwor@gmail.com
