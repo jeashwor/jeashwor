@@ -8,8 +8,14 @@ https://jeashwor.github.io/
 <img src="https://raw.githubusercontent.com/jeashwor/jeashwor/master/Profile_Gif.gif"/>
 </a>
 
+### Resume
 
+[Click Here for Resume](./Jacob_Ashworth_Resume.pdf)
+
+### Contact Me
 jeashwor@gmail.com
+
+### More About Me
 
 https://github.com/jeashwor
 
